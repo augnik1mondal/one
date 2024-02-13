@@ -1,6 +1,7 @@
-int a,b
-a=&a
-b=&b
-a=12
-b=12
-c=a*b
+int x,y
+x=&x
+y=&y
+z=&z
+x=12
+y=12
+z=x*y
