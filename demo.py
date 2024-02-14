@@ -1,7 +1,5 @@
 int x,y
-x=&x
-y=&y
-z=&z
-x=12
-y=12
-z=x*y
+x=23
+y=78
+printf("sum of a and b is c")
+
