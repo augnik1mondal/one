@@ -1,3 +1,4 @@
+# this program is for adding two numbers
 int x,y
 x=23
 y=78
